@@ -1,0 +1,29 @@
+<html>
+    <Title>HTML Food Recipe</Title>
+    <head> <h1> Recipe : MASALA MILK TEA </h1></head>
+    <body>
+        <h2>Masala Milk Tea ingredients</h2>
+        <ul>
+            <li> Water </li>
+            <li>Whole Milk</li>
+            <li>Lipton Black Tea</li>
+            <li>Brown Sugar</li>
+            <li>Cinnamon and Cardamon</li>
+
+        </ul>
+        <h2> Making Process </h2>
+        <dl>
+         <dt> Water </dt>
+         <dd> Warm up 1/4 cup of water </dd>
+         <dt> Milk</dt>
+         <dd> Add Milk into the water and boil it <dd>
+         <dt>Lipton Black Tea</dt>
+         <dd>Add Lipton Black Tea into the mix of Boiled water and Milk</dd>
+         <dt>Sugar</dt>
+         <dd>Add sugar into the mix</dd>
+         <dt>Cinnamon and Cardamont</dt>
+         <dd>Add Cinnamon and Cardamont and mix it up for 8-9 Minutues</dd>
+
+        </dl>
+    </body>
+</html>
